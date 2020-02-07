@@ -1,0 +1,1 @@
+In this app you can choose a color and copy hex value to the clipboard. 
